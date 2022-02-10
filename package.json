@@ -51,7 +51,7 @@
     "browser-cookies": "^1.2.0",
     "file-loader": "^5.0.2",
     "img-loader": "^3.0.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "react-bootstrap": "^1.0.0-beta.5",
     "react-dropdown": "^1.6.4",
     "react-modal": "^3.8.1",
